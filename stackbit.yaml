@@ -1,6 +1,5 @@
 stackbitVersion: ~0.3.0
 ssgName: nextjs
-ssgVersion: 11.0.0
 cmsName: git
 buildCommand: npm run build
 publishDir: out
